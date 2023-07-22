@@ -1,16 +1,30 @@
-# number_predictor
+# Number Predictor Flutter
 
-A new Flutter project.
+This is a replica of the [Number Predictor project](https://github.com/raj-pulapakura/Number-Predictor) by Raj Pulapakura, but created using Flutter (instead of using Kotlin like in the original project).
 
-## Getting Started
+How Number Predictor works is, to take the rules from the app itself: 
 
-This project is a starting point for a Flutter application.
+1. Think of a number from 1 to 30.
+2. Remember this number.
+3. You will be shown 5 slides.
+4. On each slide,  YES if your number is there, or NO if it is not.
+5. At the end of the five slides, your number will be magically guessed.
 
-A few resources to get you started if this is your first Flutter project:
+Home Screen:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/ProTechZ/Number-Predictor-Flutter/assets/96871120/0261c24a-c164-43d7-a1ce-7fc67bd4f0b7)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Rules Screen:
+
+![image](https://github.com/ProTechZ/Number-Predictor-Flutter/assets/96871120/d1246e5f-5264-4094-b82f-5e3cf40ce8e1)
+
+
+One of the slides:
+
+![image](https://github.com/ProTechZ/Number-Predictor-Flutter/assets/96871120/9e45ff9f-64ac-448e-85cd-303a33cdb523)
+
+
+Number magically guessed:
+
+![image](https://github.com/ProTechZ/Number-Predictor-Flutter/assets/96871120/7fa56e0f-f012-473b-8f20-53f663641e1d)
