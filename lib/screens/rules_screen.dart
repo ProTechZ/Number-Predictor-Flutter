@@ -54,7 +54,7 @@ class RulesScreen extends StatelessWidget {
               ),
               const SizedBox(height: 10),
               Text(
-                '4. on each slide,  YES if your number is there, or NO if it is not.',
+                '4. On each slide,  YES if your number is there, or NO if it is not.',
                 style: GoogleFonts.signika(
                   fontSize: 20,
                   fontWeight: FontWeight.w900,
