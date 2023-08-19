@@ -1,6 +1,6 @@
-# Number Predictor Flutter
+# Number Predictor (Flutter) 💯💯
 
-This is a replica of the [Number Predictor project](https://github.com/raj-pulapakura/Number-Predictor) by Raj Pulapakura, but created using Flutter (instead of using Kotlin like in the original project).
+This is a replica of the [Number Predictor project](https://github.com/raj-pulapakura/Number-Predictor) by *Raj Pulapakura*, but created using Flutter (instead of using Kotlin like in the original project).
 
 How Number Predictor works is, to take the rules from the app itself: 
 
